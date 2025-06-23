@@ -1,4 +1,4 @@
-1Password Login on Android
+How to Login 1Password on Android
 ==================================================================
 
 .. toctree::
